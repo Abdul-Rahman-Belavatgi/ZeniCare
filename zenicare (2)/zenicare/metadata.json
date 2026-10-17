@@ -1,0 +1,6 @@
+{
+  "name": "ZeniCare - HL7 FHIR Longitudinal Health Record",
+  "description": "Unified, patient-governed longitudinal health record platform compliant with HL7® FHIR® R4 standards, uniting multi-hospital EHRs, drug interaction reconciliation, diagnostic biomarker analytics, and radiograph workstation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
